@@ -11,7 +11,9 @@
     iv. Now to populate the database, send a empty post request to "localhost/databaseUpdate". This will automatically fetch the data from csv files and enter in the database.
     
 2. Linking backend with frontend:
+
     i. Go to commonFunctions.js in frontend->src->utils->commonFunctions.js.
+    
     ii. Make sure the localDatabaseUrl is set to "http://localhost:8000/".
     
 3. Host the backend and the frontend locally and you are good to go.
