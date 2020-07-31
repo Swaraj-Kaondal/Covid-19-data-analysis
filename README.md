@@ -1,5 +1,9 @@
 # Covid-19-data-analysis
 
+# Overview
+The web app displays the CARD data of all the states of India using graphs and tables, it also shows the sentiments of the state. The sentiment is calculated by doing a sentiment analysis on the tweets made from the respective states and calculating an average value. The state wise trend is also shown after clciking on a particular state in the state table. A seperate page enables the user to find the patients by using filters 
+
+# Setup
 1. Setting up the database:
 
     i. Go to the setting.py in the backend->home->setting.py.
