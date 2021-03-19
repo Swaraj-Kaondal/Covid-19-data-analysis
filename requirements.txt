@@ -91,7 +91,7 @@ pdfminer2==20151206
 pdfminer3k==1.3.1
 pdfx==1.3.0
 pickleshare==0.7.5
-Pillow==5.2.0
+Pillow==8.1.1
 pluggy==0.13.1
 ply==3.11
 prometheus-client==0.7.1
