@@ -107,7 +107,7 @@ pycryptodome==3.9.4
 pydot==1.4.1
 pydotplus==2.0.2
 pygame==1.9.4
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 PyMuPDF==1.16.8
 PyOpenGL==3.1.2
