@@ -113,7 +113,7 @@ PyMuPDF==1.16.8
 PyOpenGL==3.1.2
 pyOpenSSL==19.0.0
 pyparsing==2.4.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyproj==2.4.2.post1
 pyrsistent==0.15.3
 pyserial==3.4
